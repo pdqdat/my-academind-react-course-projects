@@ -4,4 +4,9 @@ This repository contains the code for my projects as I learn React - The Complet
 
 ### [Module 03: React Essentials](/03%20React%20Essentials/)
 
-### [Module 04 Essentials Deep Dive](/04%20Essentials%20Deep%20Dive/)
+### [Module 04: Essentials Deep Dive](/04%20Essentials%20Deep%20Dive/)
+
+-   [Starting project (continue)](/04%20Essentials%20Deep%20Dive/01-starting-project/)
+-   [Tic Tac Toe](/04%20Essentials%20Deep%20Dive/07-tic-tac-toe-starting-project/)
+
+### [Module 05: Essentials Practice](/05%20Essentials%20Practice/)
