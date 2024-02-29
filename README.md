@@ -10,3 +10,5 @@ This repository contains the code for my projects as I learn React - The Complet
 -   [Tic Tac Toe](/04%20Essentials%20Deep%20Dive/07-tic-tac-toe-starting-project/)
 
 ### [Module 05: Essentials Practice](/05%20Essentials%20Practice/)
+
+### [Module 06: Styling](/06%20Styling/)
