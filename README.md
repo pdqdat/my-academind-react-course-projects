@@ -12,3 +12,7 @@ This repository contains the code for my projects as I learn React - The Complet
 ### [Module 05: Essentials Practice](/05%20Essentials%20Practice/)
 
 ### [Module 06: Styling](/06%20Styling/)
+
+### [Module 07: Debugging](/07%20Debugging/)
+
+### [Module 08: Refs Portals](/08%20Refs%20Portals/)
