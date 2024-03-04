@@ -18,3 +18,5 @@ This repository contains the code for my projects as I learn React - The Complet
 ### [Module 08: Refs Portals](/08%20Refs%20Portals/)
 
 ### [Module 09: Practice Project - Project Management](/09%20Practice%20Project%20-%20Project%20Management/)
+
+### [Module 10: Advanced State Management with Context useReducer](/10%20Advanced%20State%20Management%20with%20Context%20useReducer/)
