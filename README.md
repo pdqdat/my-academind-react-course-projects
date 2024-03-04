@@ -16,3 +16,5 @@ This repository contains the code for my projects as I learn React - The Complet
 ### [Module 07: Debugging](/07%20Debugging/)
 
 ### [Module 08: Refs Portals](/08%20Refs%20Portals/)
+
+### [Module 09: Practice Project - Project Management](/09%20Practice%20Project%20-%20Project%20Management/)
