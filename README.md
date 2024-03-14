@@ -2,23 +2,25 @@
 
 This repository contains the code for my projects as I learn React - The Complete Guide 2024 (incl. React Router & Redux) at Udemy, taught by Academind.
 
-### [Module 03: React Essentials](/03%20React%20Essentials/)
+### [Module 03: React Essentials](/03-React-Essentials/react-essentials-intro/)
 
-### [Module 04: Essentials Deep Dive](/04%20Essentials%20Deep%20Dive/)
+### [Module 04: Essentials Deep Dive](/04-Essentials-Deep-Dive/)
 
--   [Starting project (continue)](/04%20Essentials%20Deep%20Dive/01-starting-project/)
--   [Tic Tac Toe](/04%20Essentials%20Deep%20Dive/07-tic-tac-toe-starting-project/)
+-   [React Essentials (continue)](/04-Essentials-Deep-Dive/react-essentials-intro/)
+-   [Tic Tac Toe](/04-Essentials-Deep-Dive/tic-tac-toe/)
 
-### [Module 05: Essentials Practice](/05%20Essentials%20Practice/)
+### [Module 05: Essentials Practice](/05-Essentials-Practice/investment-calculator/)
 
-### [Module 06: Styling](/06%20Styling/)
+### [Module 06: Styling](/06-Styling/react-art/)
 
-### [Module 07: Debugging](/07%20Debugging/)
+### [Module 07: Debugging](/07-Debugging/investment-calculator/)
 
-### [Module 08: Refs Portals](/08%20Refs%20Portals/)
+### [Module 08: Refs Portals](/08-Refs-Portals/timer-game/)
 
-### [Module 09: Practice Project - Project Management](/09%20Practice%20Project%20-%20Project%20Management/)
+### [Module 09: Practice Project - Project Management](/09-Practice-Project/project-management/)
 
-### [Module 10: Advanced State Management with Context useReducer](/10%20Advanced%20State%20Management%20with%20Context%20useReducer/)
+### [Module 10: Advanced State Management with Context useReducer](/10-Advanced-State-Management-with-Context-useReducer/elegant-clothing-store/)
 
-### [Module 11: Side Effects useEffect](/11%20Side%20Effects%20useEffect/)
+### [Module 11: Side Effects useEffect](/11-Side-Effects-useEffect/wonders-picker/)
+
+### [Module 12: Practice Project (React Quiz)](/12-Practice-Project/react-quiz/)
