@@ -30,3 +30,7 @@ This repository contains the code for my projects as I learn React - The Complet
 ### [Module 14: Class-based Components (later!)](/14-Class-based-Components/01-starting-project/)
 
 ### [Module 15: HTTP Request](/15-HTTP-Requests/wonders-picker-with-BE/)
+
+### [Module 16: Custom Hooks](/16-Custom-Hooks/wonders-picker-with-BE/)
+
+### [Module 17: Forms User Input](/17-Forms-User-Input/)
