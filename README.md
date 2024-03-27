@@ -33,4 +33,6 @@ This repository contains the code for my projects as I learn React - The Complet
 
 ### [Module 16: Custom Hooks](/16-Custom-Hooks/wonders-picker-with-BE/)
 
-### [Module 17: Forms User Input](/17-Forms-User-Input/)
+### [Module 17: Forms User Input](/17-Forms-User-Input/login-form/)
+
+### [Module 18 Practice Project (Food Order)](/18-Practice-Project/food-order/)
