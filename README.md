@@ -1,6 +1,6 @@
-# "React - The Complete Guide 2024" Projects
+# "React - The Complete Guide 2025" Projects
 
-This repository contains the code for my projects as I learn React - The Complete Guide 2024 (incl. React Router & Redux) at Udemy, taught by Academind.
+This repository contains the code for my projects as I learn [React - The Complete Guide 2025](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) at Udemy, taught by Academind.
 
 ### [Module 03: React Essentials](/03-React-Essentials/react-essentials-intro/)
 
@@ -35,4 +35,8 @@ This repository contains the code for my projects as I learn React - The Complet
 
 ### [Module 17: Forms User Input](/17-Forms-User-Input/login-form/)
 
-### [Module 18 Practice Project (Food Order)](/18-Practice-Project/food-order/)
+### [Module 18: Form Actions (Update for React 19)](/18-Form-Actions/)
+
+-   [Opinion Board](/18-Form-Actions/opinion-board/)
+
+### [Module 19: Practice Project (Food Order)](/18-Practice-Project/food-order/)
