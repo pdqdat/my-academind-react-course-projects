@@ -42,3 +42,5 @@ This repository contains the code for my projects as I learn [React - The Comple
 ### [Module 19: Practice Project (Food Order)](/18-Practice-Project/food-order/)
 
 ### [Module 20: Redux Basics](/20-Redux-Basics/01-starting-project/)
+
+### [Module 21: Advanced Redux](/21%20Advanced%20Redux/redux-cart/)
