@@ -44,3 +44,7 @@ This repository contains the code for my projects as I learn [React - The Comple
 ### [Module 20: Redux Basics](/20-Redux-Basics/01-starting-project/)
 
 ### [Module 21: Advanced Redux](/21%20Advanced%20Redux/redux-cart/)
+
+### [Module 22: Routing](/22%20Routing/event-management/)
+
+### [Module 23: Authentication](/23%20Authentication/event-management-auth/)
