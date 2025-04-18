@@ -48,3 +48,7 @@ This repository contains the code for my projects as I learn [React - The Comple
 ### [Module 22: Routing](/22%20Routing/event-management/)
 
 ### [Module 23: Authentication](/23%20Authentication/event-management-auth/)
+
+### [Module 24: Deployment](/24%20Deployment/blog/)
+
+Deployed website: [react-deploy-demo-a88d7.web.app](https://react-deploy-demo-a88d7.web.app/)
