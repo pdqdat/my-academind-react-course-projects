@@ -57,6 +57,8 @@ This repository contains the code for my projects as I learn [React - The Comple
 
 ### [Module 26: NextJS Introduction](/26%20NextJS%20Introduction/next-level-food/)
 
-### Module 27
+### [Module 27: React Server Components](27%20React%20Server%20Components/01-starting-project/)
 
 ### [Module 28: Animations](/26%20Animations/react-challenges/)
+
+### [Module 29: Patterns](/29%20Patterns/react-patterns/)
