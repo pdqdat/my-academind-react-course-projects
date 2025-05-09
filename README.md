@@ -61,4 +61,4 @@ This repository contains the code for my projects as I learn [React - The Comple
 
 ### [Module 28: Animations](/26%20Animations/react-challenges/)
 
-### [Module 29: Patterns](/29%20Patterns/react-patterns/)
+### [Module 29: React Patterns & Best Practices](/29%20Patterns/react-patterns/)
