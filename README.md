@@ -59,6 +59,10 @@ This repository contains the code for my projects as I learn [React - The Comple
 
 ### [Module 27: React Server Components](27%20React%20Server%20Components/01-starting-project/)
 
-### [Module 28: Animations](/26%20Animations/react-challenges/)
+### [Module 28: Animations](/28%20Animations/react-challenges/)
 
 ### [Module 29: React Patterns & Best Practices](/29%20Patterns/react-patterns/)
+
+### [Module 31: Testing](/31%20Testing/01-starting-project/)
+
+### [Module 32: React TypeScript](/32%20React%20TypeScript/react-typescript/)
